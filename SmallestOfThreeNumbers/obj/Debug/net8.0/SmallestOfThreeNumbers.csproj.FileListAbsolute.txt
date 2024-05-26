@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\refint\SmallestOfThreeNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\SmallestOfThreeNumbers\obj\Debug\net8.0\ref\SmallestOfThreeNumbers.dll
