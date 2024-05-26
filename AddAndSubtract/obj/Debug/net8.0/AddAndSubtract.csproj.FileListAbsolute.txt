@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\refint\AddAndSubtract.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\AddAndSubtract\obj\Debug\net8.0\ref\AddAndSubtract.dll
