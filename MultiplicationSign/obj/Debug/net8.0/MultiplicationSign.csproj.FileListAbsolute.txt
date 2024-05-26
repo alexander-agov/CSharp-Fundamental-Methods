@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\bin\Debug\net8.0\MultiplicationSign.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\bin\Debug\net8.0\MultiplicationSign.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\bin\Debug\net8.0\MultiplicationSign.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\bin\Debug\net8.0\MultiplicationSign.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\bin\Debug\net8.0\MultiplicationSign.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\refint\MultiplicationSign.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\MultiplicationSign.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MultiplicationSign\obj\Debug\net8.0\ref\MultiplicationSign.dll
