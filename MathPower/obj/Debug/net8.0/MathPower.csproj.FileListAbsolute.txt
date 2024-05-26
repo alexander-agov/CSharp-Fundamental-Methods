@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\bin\Debug\net8.0\MathPower.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\bin\Debug\net8.0\MathPower.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\bin\Debug\net8.0\MathPower.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\bin\Debug\net8.0\MathPower.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\bin\Debug\net8.0\MathPower.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\refint\MathPower.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\MathPower.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\MathPower\obj\Debug\net8.0\ref\MathPower.dll
