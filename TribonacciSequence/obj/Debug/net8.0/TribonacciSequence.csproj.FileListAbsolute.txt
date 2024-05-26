@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\bin\Debug\net8.0\TribonacciSequence.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\bin\Debug\net8.0\TribonacciSequence.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\bin\Debug\net8.0\TribonacciSequence.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\bin\Debug\net8.0\TribonacciSequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\bin\Debug\net8.0\TribonacciSequence.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\refint\TribonacciSequence.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\TribonacciSequence.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\TribonacciSequence\obj\Debug\net8.0\ref\TribonacciSequence.dll
