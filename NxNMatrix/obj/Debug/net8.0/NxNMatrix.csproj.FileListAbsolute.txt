@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\bin\Debug\net8.0\NxNMatrix.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\bin\Debug\net8.0\NxNMatrix.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\bin\Debug\net8.0\NxNMatrix.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\bin\Debug\net8.0\NxNMatrix.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\bin\Debug\net8.0\NxNMatrix.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\refint\NxNMatrix.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\NxNMatrix.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\NxNMatrix\obj\Debug\net8.0\ref\NxNMatrix.dll
