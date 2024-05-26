@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\bin\Debug\net8.0\CenterPoint.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\bin\Debug\net8.0\CenterPoint.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\bin\Debug\net8.0\CenterPoint.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\bin\Debug\net8.0\CenterPoint.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\bin\Debug\net8.0\CenterPoint.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\refint\CenterPoint.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\CenterPoint.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CenterPoint\obj\Debug\net8.0\ref\CenterPoint.dll
