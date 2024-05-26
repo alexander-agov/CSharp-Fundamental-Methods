@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\bin\Debug\net8.0\CalculateRectangularArea.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\bin\Debug\net8.0\CalculateRectangularArea.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\bin\Debug\net8.0\CalculateRectangularArea.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\bin\Debug\net8.0\CalculateRectangularArea.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\bin\Debug\net8.0\CalculateRectangularArea.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\refint\CalculateRectangularArea.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\CalculateRectangularArea.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\CalculateRectangularArea\obj\Debug\net8.0\ref\CalculateRectangularArea.dll
