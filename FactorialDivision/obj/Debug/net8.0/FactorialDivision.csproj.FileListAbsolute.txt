@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\bin\Debug\net8.0\FactorialDivision.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\bin\Debug\net8.0\FactorialDivision.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\bin\Debug\net8.0\FactorialDivision.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\bin\Debug\net8.0\FactorialDivision.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\bin\Debug\net8.0\FactorialDivision.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\refint\FactorialDivision.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Methods\FactorialDivision\obj\Debug\net8.0\ref\FactorialDivision.dll
